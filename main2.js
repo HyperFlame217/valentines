@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
     "Please",
     "I'm begging you",
     "I'm crying",
-    "I'm sad",
+    "I'm on my knees",
     "HUHUHUHU",
     "Please Say Yes",
     "I'm gonna cry",
@@ -102,7 +102,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const wedate = document.getElementById("wedate");
         const btns = document.getElementById("btns");
         btns.style.display = "none";
-        wedate.innerText = "We are each other's valentine now. I love you cutie. ❤️😘";
+        wedate.innerText = "We are each other's valentine now >:) I love you mah Rasmalai. :3🫶";
 
         // Open index1.html in a new tab
         window.open("index1.html", "_blank");
